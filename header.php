@@ -70,7 +70,7 @@
           </ul>
         </section></nav>
 <!-- _vp_ 20160106 end -->
-
+<?php /*
 		<div class="title-bar" data-responsive-toggle="site-navigation">
 			<button class="menu-icon" type="button" data-toggle="offCanvas"></button>
 			<div class="title-bar-title">
@@ -92,6 +92,8 @@
 				<?php endif; ?>
 			</div>
 		</nav>
+*/
+?>
 	</header>
 
 	<section class="container">
