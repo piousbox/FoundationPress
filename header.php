@@ -34,6 +34,43 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
 	<header id="masthead" class="site-header" role="banner">
+
+<!-- _vp_ 20160106 begin -->
+<nav role="navigation" data-topbar="" class="top-bar">
+        <ul class="title-area">
+          <li class="name">
+            <h1>
+              <a href="http://wasya.co">Wasya.co</a>
+            </h1>
+          </li>
+          <li class="toggle-topbar menu-icon">
+            <a href="javascript:void(0);">
+              <span>Menu</span>
+            </a>
+          </li>
+        </ul>
+      <section class="top-bar-section">
+          <ul class="right">
+            <li>
+              <a href="http://wasya.co/#services" class="services">Services</a>
+            </li>
+            <li class="has-dropdown not-click">
+              <a href="javascript:void(0);">Knowledge Base</a>
+              <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">Back</a></h5></li>
+                <li><a href="http://blog.wasya.co">Blog</a></li>
+                <li><a href="http://wiki.computationalartscorp.com">Wiki</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://wasya.co/#about" class="about">About</a>
+            </li>
+            <li>
+              <a href="mailto:admin@wasya.co?subject=Potential Work Opportunity">Contact</a>
+            </li>
+          </ul>
+        </section></nav>
+<!-- _vp_ 20160106 end -->
+
 		<div class="title-bar" data-responsive-toggle="site-navigation">
 			<button class="menu-icon" type="button" data-toggle="offCanvas"></button>
 			<div class="title-bar-title">
